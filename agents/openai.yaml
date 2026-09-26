@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用小说·龙族期叙事气质"
+  short_description: "以细腻人物观察、电影感场景调度和情绪节奏写原创中文小说"
+  default_prompt: "用 $jiangnan-fiction-general 写一段原创小说，让场景细节、人物认识和情绪按题材自然推进。"
